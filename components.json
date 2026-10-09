@@ -1,0 +1,23 @@
+[
+  {
+    "repository": "101Laboratory/stardis-oxs3d",
+    "path": "stardis-oxs3d",
+    "commit": "4955df8f0189259a9323de836cfe5498d5fe84fd",
+    "branch_for_maintenance": "main",
+    "release_tag": "research-archive-2026-10-09"
+  },
+  {
+    "repository": "101Laboratory/stardis-editor",
+    "path": "stardis-editor",
+    "commit": "775096080a4ab5dec4584010499036e83c96b045",
+    "branch_for_maintenance": "master",
+    "release_tag": "research-archive-2026-10-09"
+  },
+  {
+    "repository": "101Laboratory/stardis-thesis",
+    "path": "thesis",
+    "commit": "e06e96f25e9ba566629bc2a4f5aadb725bfc26cb",
+    "branch_for_maintenance": "main",
+    "release_tag": "research-archive-2026-10-09"
+  }
+]

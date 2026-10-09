@@ -1,0 +1,11 @@
+[submodule "stardis-oxs3d"]
+	path = stardis-oxs3d
+	url = https://github.com/101Laboratory/stardis-oxs3d.git
+
+[submodule "stardis-editor"]
+	path = stardis-editor
+	url = https://github.com/101Laboratory/stardis-editor.git
+
+[submodule "thesis"]
+	path = thesis
+	url = https://github.com/101Laboratory/stardis-thesis.git
